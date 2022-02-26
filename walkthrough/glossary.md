@@ -212,4 +212,6 @@ A notification about activity in a repository a user has subscribed to.
 ## web notifications
 Notifications displayed in the web interface on GitHub: https://github.com/notifications
 
-#### Reference : https://docs.github.com/en/get-started/quickstart/github-glossary
+````
+#### Reference :- https://docs.github.com/en/get-started/quickstart/github-glossary
+````
